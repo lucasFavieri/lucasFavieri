@@ -22,7 +22,7 @@
 
 <h2>- 🔭 I’m currently working on ...</h2>
 <ul>
-  <li> <a href="https://www.scoutadventures.org.uk/">Scout Adventures</a> as a voluteer!</li>
+  <li> <a href="https://www.scoutadventures.org.uk/">Scout Adventures</a> as a volunteer!</li>
 </ul>
 
 
