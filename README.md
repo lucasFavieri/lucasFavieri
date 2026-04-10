@@ -44,6 +44,15 @@ I am focused on leveraging Python, Statistics, and Predictive Modeling to solve 
 
 ---
 
+### 📂 Featured Projects
+*Here are some of the key projects developed during my specialization:*
+
+* **[Economic Data Analysis & Hypothesis Testing](https://github.com/lucasFavieri/economic-data-analysis-hypothesis-testing)**: 
+A study on the global digital divide using **Pearson Correlation, Independent T-Tests, and Chi-Square** analysis on real-world economic data (QoG Dataset).
+  * *Skills: Inferential Statistics, Python (SciPy), Data Visualization (Seaborn).*
+
+---
+
 ### 🎓 Education
 
 * **Data Science and Machine Learning** – [Facultet](https://facultet1.ezycourse.com/) (Porto, Portugal) | *2024 – Present*
@@ -55,5 +64,5 @@ I am focused on leveraging Python, Statistics, and Predictive Modeling to solve 
 
 ### 📫 Let's Connect!
 * **LinkedIn:** [linkedin.com/in/lucas-favieri](https://www.linkedin.com/in/lucas-favieri/)
-* **Portfolio:** [lucasfavieri.github.io](https://lucasfavieri.github.io/index.html)
+* **Portfolio:** [lucasfavieri.github.io](https://lucasfavieri.github.io/).
 * **Email:** [lucasfavieri01@gmail.com]
