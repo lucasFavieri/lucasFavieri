@@ -69,7 +69,7 @@ A study on the global digital divide using **Pearson Correlation, Independent T-
 
 ---
 
-### 📊 GitHub Stats
-![Lucas's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFavieri&layout=compact&theme=vision-glow&hide_border=true)
+### 📊 My Coding Skills
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasFavieri&layout=compact&theme=dracula&hide_border=true)
 
 ---
