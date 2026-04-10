@@ -66,3 +66,10 @@ A study on the global digital divide using **Pearson Correlation, Independent T-
 * **LinkedIn:** [linkedin.com/in/lucas-favieri](https://www.linkedin.com/in/lucas-favieri/)
 * **Portfolio:** [lucasfavieri.github.io](https://lucasfavieri.github.io/).
 * **Email:** [lucasfavieri01@gmail.com]
+
+---
+
+### 📊 GitHub Stats
+![Lucas's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFavieri&layout=compact&theme=vision-glow&hide_border=true)
+
+---
