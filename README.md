@@ -47,8 +47,12 @@ I am focused on leveraging Python, Statistics, and Predictive Modeling to solve 
 ### 📂 Featured Projects
 *Here are some of the key projects developed during my specialization:*
 
+* **[Marketing Campaign Optimization & A/B Testing](https://github.com/lucasFavieri/marketing-analytics-ab-testing)**: 
+Using **Z-Tests, Chi-Square, and T-Tests** to analyze marketing effectiveness, including **ROI and CPA** calculations.
+  * *Skills: A/B Testing, Business Analytics, Python (Statsmodels), Financial Metrics.*
+
 * **[Economic Data Analysis & Hypothesis Testing](https://github.com/lucasFavieri/economic-data-analysis-hypothesis-testing)**: 
-A study on the global digital divide using **Pearson Correlation, Independent T-Tests, and Chi-Square** analysis on real-world economic data (QoG Dataset).
+A study on the global digital divide using **Pearson Correlation and Inferential Statistics**.
   * *Skills: Inferential Statistics, Python (SciPy), Data Visualization (Seaborn).*
 
 ---
