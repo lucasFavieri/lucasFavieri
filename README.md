@@ -47,6 +47,9 @@ I am focused on leveraging Python, Statistics, and Predictive Modeling to solve 
 ### 📂 Featured Projects
 *Here are some of the key projects developed during my specialization:*
 
+* **[Weather ETL Pipeline](https://github.com/lucasFavieri/weather-etl-pipeline)**: A complete data engineering solution to automate the extraction, transformation, and storage of meteorological data. It features custom deduplication logic to ensure data integrity and historical accuracy.
+  * **Skills**: ETL, Data Engineering, Python (Pandas), SQL (SQLite), API Integration.
+
 * **[Marketing Campaign Optimization & A/B Testing](https://github.com/lucasFavieri/marketing-analytics-ab-testing)**: 
 Using **Z-Tests, Chi-Square, and T-Tests** to analyze marketing effectiveness, including **ROI and CPA** calculations.
   * *Skills: A/B Testing, Business Analytics, Python (Statsmodels), Financial Metrics.*
